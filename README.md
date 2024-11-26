@@ -1,3 +1,5 @@
 # Welcome!
 My name is Jakub Kogut,
-* dsefsef
+unfinished
+
+![bad to the bone](https://jkogut.pl/images/badToTheBone.gif)
