@@ -1,4 +1,4 @@
-# Cześć! 👋 Jestem [Twoje Imię] (github.com/niooch)
+# Cześć! 👋 nazywam się [Jakub Kogut](github.com/niooch)
 
 Jestem studentem 2. roku Informatyki Algorytmicznej na Politechnice Wrocławskiej. Pasjonuje mnie programowanie, algorytmy, technologie webowe oraz projekty związane z odnawialnymi źródłami energii. Poniżej znajdziesz podsumowanie moich głównych projektów, technologii, którymi się posługuję, oraz zainteresowań.
 
