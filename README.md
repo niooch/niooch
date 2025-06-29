@@ -41,7 +41,6 @@ Jestem studentem 2. roku Informatyki Algorytmicznej na Politechnice Wrocławskie
 > **Opis**:
 > • Pełna realizacja własnej strony internetowej od zera – struktura w HTML5, responsywny design w CSS3.
 > • Szablon strony zawiera sekcje Home, About, Projects i Contact z czystym, prostym UX.
-> • Pierwsze wpisy blogowe (m.in. „Reviewing a friend’s code”).
 > • W planach: dodanie JavaScript (formularze kontaktowe) oraz prostego backendu.
 
 ### [Inwerter RES Driver](https://github.com/niooch/inverterDriver)
